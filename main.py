@@ -8,7 +8,7 @@ from kivymd.uix.button import MDFlatButton
 import json
 import requests
 
-Window.size = (310,500)
+#Window.size = (310,500)
 
 class Slope(MDApp):
     def build(self):
